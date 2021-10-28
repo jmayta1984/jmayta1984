@@ -7,7 +7,7 @@
 
 <p align='center'>
   :email: How to reach me: 
-  <a href='mailto:jmayta@upc.edu.pe'>jmayta@pucp.edu.pe</a>,
+  <a href='mailto:jmayta@upc.edu.pe'>jmayta@pucp.edu.pe</a></br>
   :office: I’m currently working on <a href='https://www.upc.edu.pe/'>UPC</a></br>
   :rocket: Nowadays, I’m learning Jetpack Compose</br>
 </p>  
