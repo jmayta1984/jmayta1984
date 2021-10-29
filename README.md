@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jorge M
 
 ## About me
-<p align='center'>
+<p>
   :email: How to reach me: 
   <a href='mailto:jmayta@upc.edu.pe'>jmayta@pucp.edu.pe</a></br>
   :office: I’m currently working at <a href='https://www.upc.edu.pe/'>UPC</a></br>
@@ -19,4 +19,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@sleepy1984-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/sleepy1984)
 
 ## Stats
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmayta1984&" alt="jmayta1984" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmayta1984&" alt="jmayta1984" /></p>
