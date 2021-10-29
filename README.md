@@ -21,6 +21,6 @@
 ## Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmayta1984"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmayta1984&show_icons=true&count_private=true"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmayta1984&layout=compact"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmayta1984"/></p>
 
 
