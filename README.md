@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jmayta1984&show_icons=true&count_private=true"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmayta1984"/></p>
 
-<a href="#"><img src="https://badges.pufler.dev/visits/jmayta1984/jmayta1984"></a> 
+<p align="center"><img src="https://badges.pufler.dev/visits/jmayta1984/jmayta1984"></p>
